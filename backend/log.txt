@@ -1,0 +1,756 @@
+Exception occured on Recipt validation:Wednesday 23rd of November 2011 11:51:57 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:f51f4ad74951efde663059a58ca1b01a6fc2c731
+Exception occured on Recipt validation:Wednesday 23rd of November 2011 11:54:56 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:f51f4ad74951efde663059a58ca1b01a6fc2c731
+Exception occured on Recipt validation:Wednesday 23rd of November 2011 01:02:20 PM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:5a8f31f9b849fc3c5c5333c0d4a3c7352f74868c
+Exception occured on Recipt validation:Wednesday 23rd of November 2011 01:03:05 PM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:5a8f31f9b849fc3c5c5333c0d4a3c7352f74868c
+Exception occured on Recipt validation:Wednesday 23rd of November 2011 01:16:06 PM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:163b3e144a406121bc0ef071f5539cfdeb038314
+Exception occured on Recipt validation:Wednesday 23rd of November 2011 01:22:05 PM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:163b3e144a406121bc0ef071f5539cfdeb038314
+Exception occured on Recipt validation:Wednesday 23rd of November 2011 01:25:37 PM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:163b3e144a406121bc0ef071f5539cfdeb038314
+Exception occured on Recipt validation:Wednesday 23rd of November 2011 06:48:35 PM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:163b3e144a406121bc0ef071f5539cfdeb038314
+Exception occured on Recipt validation:Thursday 24th of November 2011 04:31:17 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:5a8f31f9b849fc3c5c5333c0d4a3c7352f74868c
+Exception occured on Recipt validation:Thursday 24th of November 2011 04:33:47 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:5a8f31f9b849fc3c5c5333c0d4a3c7352f74868c
+Exception occured on Recipt validation:Thursday 24th of November 2011 05:02:05 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:5a8f31f9b849fc3c5c5333c0d4a3c7352f74868c
+Exception occured on Recipt validation:Thursday 24th of November 2011 07:03:39 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:2a6b6b7c7d00509568489fdad514f438b59c4524
+Exception occured on Recipt validation:Thursday 24th of November 2011 07:04:32 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:2a6b6b7c7d00509568489fdad514f438b59c4524
+Exception occured on Recipt validation:Thursday 24th of November 2011 07:09:52 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:2a6b6b7c7d00509568489fdad514f438b59c4524
+Exception occured on Recipt validation:Thursday 24th of November 2011 07:17:05 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:16d219feace77099b416791762725c676a9b7b07
+Exception occured on Recipt validation:Thursday 24th of November 2011 07:27:24 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:2a6b6b7c7d00509568489fdad514f438b59c4524
+User not exist or request in invalidThursday 24th of November 2011 08:02:25 AM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.seventeenhundreddiamonds
+transaction_id=>1000000014345260
+purchase_date=>2011-11-24 07:31:01 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.7
+udid=>16d219feace77099b416791762725c676a9b7b07
+amount=>99.99
+Exception occured on Recipt validation:Thursday 24th of November 2011 08:05:52 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:f51f4ad74951efde663059a58ca1b01a6fc2c731
+Exception occured on Recipt validation:Thursday 24th of November 2011 09:29:52 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:5a8f31f9b849fc3c5c5333c0d4a3c7352f74868c
+Exception occured on Recipt validation:Thursday 24th of November 2011 09:50:09 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:16d219feace77099b416791762725c676a9b7b07
+Exception occured on Recipt validation:Thursday 24th of November 2011 09:56:38 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:5a8f31f9b849fc3c5c5333c0d4a3c7352f74868c
+Exception occured on Recipt validation:Thursday 24th of November 2011 10:02:01 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:850D4E63-49E2-5A03-9451-84C59F5BE708
+Exception occured on Recipt validation:Thursday 24th of November 2011 11:30:23 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:16d219feace77099b416791762725c676a9b7b07
+User not exist or request in invalidThursday 24th of November 2011 11:36:52 AM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.seventeenhundreddiamonds
+transaction_id=>1000000014377793
+purchase_date=>2011-11-24 11:41:29 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.7
+udid=>16d219feace77099b416791762725c676a9b7b07
+amount=>99.99
+Exception occured on Recipt validation:Thursday 24th of November 2011 12:37:00 PM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:5a8f31f9b849fc3c5c5333c0d4a3c7352f74868c
+Exception occured on Recipt validation:Thursday 24th of November 2011 12:40:24 PM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:2a6b6b7c7d00509568489fdad514f438b59c4524
+Exception occured on Recipt validation:Friday 25th of November 2011 04:45:38 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:f51f4ad74951efde663059a58ca1b01a6fc2c731
+Exception occured on Recipt validation:Friday 25th of November 2011 06:59:57 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:2a6b6b7c7d00509568489fdad514f438b59c4524
+Exception occured on Recipt validation:Friday 25th of November 2011 10:19:04 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:2a6b6b7c7d00509568489fdad514f438b59c4524
+Exception occured on Recipt validation:Friday 25th of November 2011 11:16:09 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:163b3e144a406121bc0ef071f5539cfdeb038314
+Exception occured on Recipt validation:Friday 25th of November 2011 03:44:47 PM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:f51f4ad74951efde663059a58ca1b01a6fc2c731
+Exception occured on Recipt validation:Friday 25th of November 2011 04:38:02 PM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:f51f4ad74951efde663059a58ca1b01a6fc2c731
+Exception occured on Recipt validation:Saturday 26th of November 2011 08:04:51 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:5a8f31f9b849fc3c5c5333c0d4a3c7352f74868c
+Exception occured on Recipt validation:Saturday 26th of November 2011 10:00:19 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:850D4E63-49E2-5A03-9451-84C59F5BE708
+Exception occured on Recipt validation:Saturday 26th of November 2011 10:00:19 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:850D4E63-49E2-5A03-9451-84C59F5BE708
+Exception occured on Recipt validation:Saturday 26th of November 2011 10:00:19 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:850D4E63-49E2-5A03-9451-84C59F5BE708
+Exception occured on Recipt validation:Saturday 26th of November 2011 10:03:13 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:850D4E63-49E2-5A03-9451-84C59F5BE708
+Exception occured on Recipt validation:Saturday 26th of November 2011 10:03:13 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:850D4E63-49E2-5A03-9451-84C59F5BE708
+Exception occured on Recipt validation:Saturday 26th of November 2011 10:03:15 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:850D4E63-49E2-5A03-9451-84C59F5BE708
+Exception occured on Recipt validation:Saturday 26th of November 2011 10:16:34 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:850D4E63-49E2-5A03-9451-84C59F5BE708
+Exception occured on Recipt validation:Saturday 26th of November 2011 10:16:34 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:850D4E63-49E2-5A03-9451-84C59F5BE708
+Exception occured on Recipt validation:Saturday 26th of November 2011 10:16:34 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:850D4E63-49E2-5A03-9451-84C59F5BE708
+Exception occured on Recipt validation:Saturday 26th of November 2011 10:17:30 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:850D4E63-49E2-5A03-9451-84C59F5BE708
+Invalid requestSaturday 26th of November 2011 10:17:30 AM
+HTTP_VIA=>1.1 FILESERVER
+HTTP_USER_AGENT=>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+HTTP_HOST=>50.18.188.59
+HTTP_ACCEPT=>text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+HTTP_ACCEPT_LANGUAGE=>en-US,en;q=0.8
+HTTP_ACCEPT_CHARSET=>ISO-8859-1,utf-8;q=0.7,*;q=0.3
+HTTP_CONNECTION=>Keep-Alive
+PATH=>/usr/local/bin:/usr/bin:/bin
+SERVER_SIGNATURE=><address>Apache/2.2.17 (Ubuntu) Server at 50.18.188.59 Port 80</address>
+
+SERVER_SOFTWARE=>Apache/2.2.17 (Ubuntu)
+SERVER_NAME=>50.18.188.59
+SERVER_ADDR=>10.170.23.72
+SERVER_PORT=>80
+REMOTE_ADDR=>116.58.46.180
+DOCUMENT_ROOT=>/vol/lib/apache2/mercenaryinc
+SERVER_ADMIN=>webmaster@localhost
+SCRIPT_FILENAME=>/vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php
+REMOTE_PORT=>35502
+GATEWAY_INTERFACE=>CGI/1.1
+SERVER_PROTOCOL=>HTTP/1.1
+REQUEST_METHOD=>GET
+QUERY_STRING=>udid=850D4E63-49E2-5A03-9451-84C59F5BE708&legacy=1
+REQUEST_URI=>/lvl6_qa/backend/store_diamonds.php?udid=850D4E63-49E2-5A03-9451-84C59F5BE708&legacy=1
+SCRIPT_NAME=>/lvl6_qa/backend/store_diamonds.php
+PHP_SELF=>/lvl6_qa/backend/store_diamonds.php
+REQUEST_TIME=>1322302650
+Exception occured on Recipt validation:Monday 28th of November 2011 11:01:15 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:850D4E63-49E2-5A03-9451-84C59F5BE708
+Exception occured on Recipt validation:Monday 28th of November 2011 11:03:57 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:850D4E63-49E2-5A03-9451-84C59F5BE708
+Exception occured on Recipt validation:Monday 28th of November 2011 11:34:26 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:163b3e144a406121bc0ef071f5539cfdeb038314
+Log transMonday 28th of November 2011 11:35:48 AM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packageone
+transaction_id=>1000000014903271
+purchase_date=>2011-11-28 11:42:33 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.8
+udid=>163b3e144a406121bc0ef071f5539cfdeb038314
+Log transMonday 28th of November 2011 11:38:59 AM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packageone
+transaction_id=>1000000014903514
+purchase_date=>2011-11-28 11:45:42 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.8
+udid=>163b3e144a406121bc0ef071f5539cfdeb038314
+Log transMonday 28th of November 2011 11:40:20 AM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packageone
+transaction_id=>1000000014903710
+purchase_date=>2011-11-28 11:47:05 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.8
+udid=>163b3e144a406121bc0ef071f5539cfdeb038314
+Exception occured on Recipt validation:Monday 28th of November 2011 11:52:09 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:163b3e144a406121bc0ef071f5539cfdeb038314
+Exception occured on Recipt validation:Monday 28th of November 2011 12:24:28 PM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:f51f4ad74951efde663059a58ca1b01a6fc2c731
+Exception occured on Recipt validation:Monday 28th of November 2011 12:33:22 PM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:f51f4ad74951efde663059a58ca1b01a6fc2c731
+Log transMonday 28th of November 2011 12:43:23 PM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packagethree
+transaction_id=>1000000014911471
+purchase_date=>2011-11-28 12:50:08 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.9
+udid=>f51f4ad74951efde663059a58ca1b01a6fc2c731
+Log transMonday 28th of November 2011 12:46:39 PM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packagefive
+transaction_id=>1000000014911735
+purchase_date=>2011-11-28 12:53:20 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.9
+udid=>f51f4ad74951efde663059a58ca1b01a6fc2c731
+Exception occured on Recipt validation:Monday 28th of November 2011 12:50:10 PM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:2a6b6b7c7d00509568489fdad514f438b59c4524
+Log transMonday 28th of November 2011 12:59:24 PM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packagefive
+transaction_id=>1000000014913469
+purchase_date=>2011-11-28 13:06:09 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.9
+udid=>2a6b6b7c7d00509568489fdad514f438b59c4524
+Log transMonday 28th of November 2011 01:00:20 PM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packagefour
+transaction_id=>1000000014913750
+purchase_date=>2011-11-28 13:07:05 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.9
+udid=>2a6b6b7c7d00509568489fdad514f438b59c4524
+Log transMonday 28th of November 2011 01:01:11 PM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packagethree
+transaction_id=>1000000014913838
+purchase_date=>2011-11-28 13:07:56 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.9
+udid=>2a6b6b7c7d00509568489fdad514f438b59c4524
+Log transMonday 28th of November 2011 01:01:59 PM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packagetwo
+transaction_id=>1000000014913969
+purchase_date=>2011-11-28 13:08:44 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.9
+udid=>2a6b6b7c7d00509568489fdad514f438b59c4524
+Log transMonday 28th of November 2011 01:02:40 PM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packageone
+transaction_id=>1000000014914046
+purchase_date=>2011-11-28 13:09:24 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.9
+udid=>2a6b6b7c7d00509568489fdad514f438b59c4524
+Exception occured on Recipt validation:Monday 28th of November 2011 01:24:06 PM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:f51f4ad74951efde663059a58ca1b01a6fc2c731
+Log transMonday 28th of November 2011 01:24:08 PM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packageone
+transaction_id=>1000000014916017
+purchase_date=>2011-11-28 13:30:51 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.9
+udid=>2a6b6b7c7d00509568489fdad514f438b59c4524
+Log transMonday 28th of November 2011 01:31:05 PM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packageone
+transaction_id=>1000000014916821
+purchase_date=>2011-11-28 13:37:46 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.9
+udid=>f51f4ad74951efde663059a58ca1b01a6fc2c731
+Exception occured on Recipt validation:Tuesday 29th of November 2011 10:42:14 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:5a8f31f9b849fc3c5c5333c0d4a3c7352f74868c
+Exception occured on Recipt validation:Tuesday 29th of November 2011 10:45:23 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:2a6b6b7c7d00509568489fdad514f438b59c4524
+Log transTuesday 29th of November 2011 10:50:19 AM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packageone
+transaction_id=>1000000015045631
+purchase_date=>2011-11-29 10:57:07 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.10
+udid=>5a8f31f9b849fc3c5c5333c0d4a3c7352f74868c
+Exception occured on Recipt validation:Tuesday 29th of November 2011 10:55:05 AM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:2a6b6b7c7d00509568489fdad514f438b59c4524
+Log transTuesday 29th of November 2011 11:48:46 AM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packageone
+transaction_id=>1000000015052613
+purchase_date=>2011-11-29 11:55:34 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.10
+udid=>2a6b6b7c7d00509568489fdad514f438b59c4524
+Log transTuesday 29th of November 2011 11:51:48 AM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packageone
+transaction_id=>1000000015045631
+purchase_date=>2011-11-29 10:57:07 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.10
+udid=>5a8f31f9b849fc3c5c5333c0d4a3c7352f74868c
+User not exist or request in invalidTuesday 29th of November 2011 11:51:48 AM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packageone
+transaction_id=>1000000015045631
+purchase_date=>2011-11-29 10:57:07 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.10
+udid=>5a8f31f9b849fc3c5c5333c0d4a3c7352f74868c
+amount=>3.99
+Log transTuesday 29th of November 2011 11:51:52 AM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packagetwo
+transaction_id=>1000000015052810
+purchase_date=>2011-11-29 11:58:40 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.10
+udid=>5a8f31f9b849fc3c5c5333c0d4a3c7352f74868c
+Log transTuesday 29th of November 2011 11:53:29 AM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packagetwo
+transaction_id=>1000000015053143
+purchase_date=>2011-11-29 12:00:18 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.10
+udid=>2a6b6b7c7d00509568489fdad514f438b59c4524
+Exception occured on Recipt validation:Tuesday 29th of November 2011 12:10:58 PM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:163b3e144a406121bc0ef071f5539cfdeb038314
+Exception occured on Recipt validation:Tuesday 29th of November 2011 12:13:37 PM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:163b3e144a406121bc0ef071f5539cfdeb038314
+Exception occured on Recipt validation:Tuesday 29th of November 2011 12:14:59 PM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:163b3e144a406121bc0ef071f5539cfdeb038314
+Log transTuesday 29th of November 2011 12:17:24 PM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packageone
+transaction_id=>1000000015055362
+purchase_date=>2011-11-29 12:24:13 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.10
+udid=>163b3e144a406121bc0ef071f5539cfdeb038314
+Exception occured on Recipt validation:Tuesday 29th of November 2011 12:35:22 PM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:2a6b6b7c7d00509568489fdad514f438b59c4524
+Exception occured on Recipt validation:Tuesday 29th of November 2011 12:38:40 PM
+Exception :exception 'Exception' with message 'Invalid receipt' in /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php:75
+Stack trace:
+#0 /vol/lib/apache2/mercenaryinc/lvl6_qa/backend/store_diamonds.php(96): getReceiptData('', true)
+#1 {main}
+udid:2a6b6b7c7d00509568489fdad514f438b59c4524
+Log transTuesday 29th of November 2011 01:05:21 PM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packageone
+transaction_id=>1000000015060144
+purchase_date=>2011-11-29 13:12:10 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.10
+udid=>2a6b6b7c7d00509568489fdad514f438b59c4524
+Log transTuesday 29th of November 2011 01:20:01 PM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packageone
+transaction_id=>1000000015061423
+purchase_date=>2011-11-29 13:26:49 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.10
+udid=>2a6b6b7c7d00509568489fdad514f438b59c4524
+Log transWednesday 30th of November 2011 05:53:35 AM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packageone
+transaction_id=>1000000015162490
+purchase_date=>2011-11-30 06:00:26 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.11
+udid=>5a8f31f9b849fc3c5c5333c0d4a3c7352f74868c
+Log transWednesday 30th of November 2011 09:51:58 AM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packagefive
+transaction_id=>1000000015187310
+purchase_date=>2011-11-30 09:58:46 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.12
+udid=>2a6b6b7c7d00509568489fdad514f438b59c4524
+Log transWednesday 30th of November 2011 10:19:05 AM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packagefive
+transaction_id=>1000000015190789
+purchase_date=>2011-11-30 10:25:57 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.12
+udid=>163b3e144a406121bc0ef071f5539cfdeb038314
+Log transWednesday 30th of November 2011 11:16:01 AM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packageone
+transaction_id=>1000000015197573
+purchase_date=>2011-11-30 11:22:53 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.13
+udid=>163b3e144a406121bc0ef071f5539cfdeb038314
+Log transWednesday 30th of November 2011 11:21:02 AM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packageone
+transaction_id=>1000000015198044
+purchase_date=>2011-11-30 11:27:53 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.13
+udid=>2a6b6b7c7d00509568489fdad514f438b59c4524
+User not exist or request in invalidWednesday 30th of November 2011 11:21:02 AM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packageone
+transaction_id=>1000000015198044
+purchase_date=>2011-11-30 11:27:53 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.13
+udid=>2a6b6b7c7d00509568489fdad514f438b59c4524
+amount=>3.99
+Log transWednesday 30th of November 2011 11:27:08 AM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packageone
+transaction_id=>1000000015198547
+purchase_date=>2011-11-30 11:34:00 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.13
+udid=>2a6b6b7c7d00509568489fdad514f438b59c4524
+User not exist or request in invalidWednesday 30th of November 2011 11:27:08 AM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packageone
+transaction_id=>1000000015198547
+purchase_date=>2011-11-30 11:34:00 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.13
+udid=>2a6b6b7c7d00509568489fdad514f438b59c4524
+amount=>3.99
+Log transWednesday 30th of November 2011 11:28:04 AM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packagefive
+transaction_id=>1000000015198665
+purchase_date=>2011-11-30 11:34:52 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.13
+udid=>2a6b6b7c7d00509568489fdad514f438b59c4524
+User not exist or request in invalidWednesday 30th of November 2011 11:28:04 AM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packagefive
+transaction_id=>1000000015198665
+purchase_date=>2011-11-30 11:34:52 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.13
+udid=>2a6b6b7c7d00509568489fdad514f438b59c4524
+amount=>99.99
+Log transWednesday 30th of November 2011 11:29:16 AM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packagetwo
+transaction_id=>1000000015198785
+purchase_date=>2011-11-30 11:36:08 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.13
+udid=>2a6b6b7c7d00509568489fdad514f438b59c4524
+User not exist or request in invalidWednesday 30th of November 2011 11:29:16 AM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packagetwo
+transaction_id=>1000000015198785
+purchase_date=>2011-11-30 11:36:08 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.13
+udid=>2a6b6b7c7d00509568489fdad514f438b59c4524
+amount=>9.99
+Log transWednesday 30th of November 2011 11:31:28 AM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packagethree
+transaction_id=>1000000015199096
+purchase_date=>2011-11-30 11:38:19 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.13
+udid=>2a6b6b7c7d00509568489fdad514f438b59c4524
+User not exist or request in invalidWednesday 30th of November 2011 11:31:28 AM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packagethree
+transaction_id=>1000000015199096
+purchase_date=>2011-11-30 11:38:19 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.13
+udid=>2a6b6b7c7d00509568489fdad514f438b59c4524
+amount=>19.99
+Log transWednesday 30th of November 2011 11:45:30 AM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packageone
+transaction_id=>1000000015201526
+purchase_date=>2011-11-30 11:52:22 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.13
+udid=>2a6b6b7c7d00509568489fdad514f438b59c4524
+Log transWednesday 30th of November 2011 11:47:34 AM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packageone
+transaction_id=>1000000015201696
+purchase_date=>2011-11-30 11:54:25 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.13
+udid=>2a6b6b7c7d00509568489fdad514f438b59c4524
+Log transWednesday 30th of November 2011 01:04:30 PM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packageone
+transaction_id=>1000000015210068
+purchase_date=>2011-11-30 13:11:19 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.13
+udid=>2a6b6b7c7d00509568489fdad514f438b59c4524
+Log transWednesday 30th of November 2011 01:09:08 PM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packageone
+transaction_id=>1000000015210599
+purchase_date=>2011-11-30 13:15:59 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.13
+udid=>2a6b6b7c7d00509568489fdad514f438b59c4524
+Log transFriday 2nd of December 2011 01:30:47 PM
+quantity=>1
+product_id=>com.lvl6.mercenaryinc.packageone
+transaction_id=>1000000015538664
+purchase_date=>2011-12-02 13:37:46 Etc/GMT
+app_item_id=>
+bid=>com.lvl6.mercenaryinc
+bvrs=>0.0.2.17
+udid=>5a8f31f9b849fc3c5c5333c0d4a3c7352f74868c

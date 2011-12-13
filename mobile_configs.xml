@@ -1,0 +1,23 @@
+<maintag>
+	<url>http://50.18.188.59/lvl6_qa/index.php</url>
+	<home>http://50.18.188.59/lvl6_qa/charhome.php</home>
+	<mission>http://50.18.188.59/lvl6_qa/choosemission.php</mission>
+	<attack>http://50.18.188.59/lvl6_qa/battle.php</attack>
+	<equipment>http://50.18.188.59/lvl6_qa/equipment.php</equipment>
+	<recruit>http://50.18.188.59/lvl6_qa/invite.php</recruit>
+	<tutorial>http://50.18.188.59/lvl6_qa/tutorial.php</tutorial>
+    <c2dm>http://50.18.188.59/lvl6_qa/backend/user_registered.php</c2dm>
+    <registerc2dm>http://50.18.188.59/lvl6_qa/c2dm/register_device_c2dm.php</registerc2dm>
+	
+	<url1>http://50.18.188.59/lvl6_qa/index.php</url1>
+	<home1>http://50.18.188.59/lvl6_qa/charhome.php</home1>
+	<mission1>http://50.18.188.59/lvl6_qa/choosemission.php</mission1>
+	<attack1>http://50.18.188.59/lvl6_qa/battle.php</attack1>
+	<equipment1>http://50.18.188.59/lvl6_qa/equipment.php</equipment1>
+	<recruit1>http://50.18.188.59/lvl6_qa/invite.php</recruit1>
+	<tutorial1>http://50.18.188.59/lvl6_qa/tutorial.php</tutorial1>
+   	 <c2dm1>http://50.18.188.59/lvl6_qabackend/user_registered.php</c2dm1>
+   	 <registerc2dm1>http://50.18.188.59/lvl6_qa/c2dm/register_device_c2dm.php</registerc2dm1>
+	<storediamonds1>http://50.18.188.59/lvl6_qa/backend/store_diamonds.php</storediamonds1>
+	
+</maintag>

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/1968/LSIX/trunk/apns
+END
+simplepush.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1548/LSIX/trunk/apns/simplepush.php
+END
+apns-dev_lvl6.pem
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1405/LSIX/trunk/apns/apns-dev_lvl6.pem
+END
+sample.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1548/LSIX/trunk/apns/sample.php
+END
+apns.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1293/LSIX/trunk/apns/apns.php
+END
+send_push_notifications.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1968/LSIX/trunk/apns/send_push_notifications.php
+END
+class_DbConnect.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1548/LSIX/trunk/apns/class_DbConnect.php
+END
+class_APNS.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1543/LSIX/trunk/apns/class_APNS.php
+END
+apns-dev.pem
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1522/LSIX/trunk/apns/apns-dev.pem
+END
